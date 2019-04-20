@@ -1,6 +1,6 @@
         body{
             width: 1000px;
             height: 80%;
-          background: url('img.jpg') ;
+          background: url('img.jpg')no-repeat ;
         background-size: cover;
         }
